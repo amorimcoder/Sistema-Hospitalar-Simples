@@ -1,0 +1,4 @@
+Esse é meu primeiro código commitado no GITHUB.
+Fiz isso com a intenção de começar minha carreira no mundo da programação.
+Esse código, é um pequeno sistema em Python, que cadastra e armazena médicos, enfermeiros, pacientes e acessórios hospitalares. 
+Agendamento de consultas e envio de e-mail confimando a consulta do paciente na data marcada.
